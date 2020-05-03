@@ -1,0 +1,47 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> CCS стилі. Лабораторна робота 2 </title>
+      <link rel="stylesheet" href="style.css">
+      <meta charset="UTF-8">
+    </head>
+    <body>
+     <div id="b1">
+       <div id="b2">
+         <img src="logo.jpg" alt"="логотип"> 
+     </div>
+         <div id="b3">
+         <ol>
+         <li> <a href="https://pdpu.edu.ua/"> Посилання </a>  </li>
+         <li> <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B8_YouTube" > Посилання </a> </li>
+         <li> <a href="http://pnpu.brs.od.ua/" > Посилання </a> </li>
+     </div>
+        <div id="b4">
+                    <p> Сьогодны сонячно. </p>
+                    <p> Тепло. </p>
+                    <p> Діти радіють. </p>
+     </div>
+        <div id="b5">
+        <table border="2">
+                          <th> Числа </th>
+                       <tr>
+                          <td colspan="2"> 5 </td>
+                          <td> 3 </td>
+                       </tr>
+                       <tr>                  
+                          <td> 7 </td>
+                          <td> 9 </td>
+                          <td rowspan="3"> 10 </td>
+                       </tr>                  
+                       <tr>
+                          <td> 2 </td>
+                          <td> 0 </td>
+                       </tr>
+         </table>
+     </div>
+         <div id="b6'>
+                     &copy;Яловчук Валентина. 2020 
+     </div>
+                     </div>
+        </body>               
+                     </html>
